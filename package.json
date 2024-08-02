@@ -4,7 +4,7 @@
   "description": "A static site generator built with Node.js, Plates, and Marked.",
   "author": "Nodejitsu Inc. <info@nodejitsu.com>",
   "dependencies": {
-    "async": "0.1.x",
+    "async": "0.9.2",
     "flatiron": "0.3.0",
     "highlight.js": "7.3.0",
     "marked": "0.2.x",
